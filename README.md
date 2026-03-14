@@ -1,5 +1,22 @@
 # 💫 About Me:
-Hello, I'm Yashoda.<br><br>I am an aspiring Data Analyst with skills in Excel, SQL, Power BI, and Tableau.  <br>I have completed a Data Analytics course and internship where I worked on data cleaning, visualization, and dashboard creation.  <br>I enjoy analyzing data, building reports, and solving real-world problems using data.  <br>
+Hi I'm Yashoda
+
+🎓 Data Analyst Fresher  
+📊 Skilled in Advanced Excel, SQL, Power BI, Tableau and Python  
+📈 Interested in Data Analysis and Visualization  
+💻 Completed Data Analyst Internship  
+📂 Projects: Crowdfunding Analytics | Zomato Sales Analytics | Laptop & desktop Rental Management System   
+🌱 Currently learning Advanced SQL & Power BI  
+🎯 Goal: To become a professional Data Analyst
+
+Skills:
+- Excel (Pivot Table, VLOOKUP, Charts, Dashboard)
+- SQL (Joins, Subqueries, Aggregate Functions)
+- Power BI (Dashboard, Data Visualization, Reports)
+- Tableau (Charts, Dashboard)
+- Python Basics
+- Data Cleaning
+- Data Visualization
 
 
 ## 🌐 Socials:
